@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruben Rodrigues</h1>
 <h3 align="center">Enthusiastic web developer with a strong desire to learn and captivated by the dynamic world of web development. Eager to expand knowledge in Full Stack Development while staying abreast of emerging trends in the field.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe_w200.webp">
 
 <p align="left"> </p>
 
